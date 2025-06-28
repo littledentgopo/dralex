@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Implant dentar pret 250 de euro. Coroana zirconiu 180 euro.
+title: Implant dentar pret 300 de euro. Coroana zirconiu 250 euro.
 ---
 
 <!-- Start Hero -->
@@ -15,11 +15,11 @@ title: Implant dentar pret 250 de euro. Coroana zirconiu 180 euro.
     <div class="container-fluid">
 
         <div class="row">
-            <h2 class="section-title">Oferta implant dentar 250 euro</h2>
+            <h2 class="section-title">Implant dentar 300 euro</h2>
 
 
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <img class="img-responsive" src="/img/implant250.jpg" alt="Implant dentar pret 250 euro">
+                <img class="img-responsive" src="img/promo/implant-dentar-pret-300.jpg" alt="Implant dentar pret 300 euro">
             </div>
         </div>
 
