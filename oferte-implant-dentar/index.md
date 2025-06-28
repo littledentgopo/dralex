@@ -14,11 +14,11 @@ description: Implant dentar ieftin Bucuresti, Dr. Irina Alexandru. Pret accesibi
 <!-- Start About -->
 <div id="oabout" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">Oferta implant dentar pret 300 euro</h2>
+        <h2 class="section-title">Implant dentar pret 300 euro</h2>
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <img class="img-responsive" src="img/promo/implant-dentar-pret-300.jpg" alt="Implant dentar pret 300 euro">
+                <img class="img-responsive" src="/img/promo/implant-dentar-pret-300.jpg" alt="Implant dentar pret 300 euro">
             </div>
             <br/><br/>
         </div>
