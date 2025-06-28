@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Implant dentar pret | Implant dentar pret 400 euro | Cat costa un implant dentar | INODent - IQDent
-description: Cat costa un implant dentar? La noi preturile de implant dentar sunt accesibile chiar de la 400 euro. Implant dentar pret care contine extractiile si consultatia. Cere acum un pret implant dentar personalizat.
+title: Implant dentar pret | Implant dentar pret 500 euro | Cat costa un implant dentar | INODent
+description: Cat costa un implant dentar? La noi preturile de implant dentar sunt accesibile chiar de la 500 euro. Implant dentar pret care contine extractiile si consultatia. Cere acum un pret implant dentar personalizat.
 ---
 
 <!-- Start Hero -->
@@ -14,11 +14,11 @@ description: Cat costa un implant dentar? La noi preturile de implant dentar sun
 <!-- Start About -->
 <div id="oabout" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">Implant dentar + Coronita dentara. Pret 400 euro!</h2>
+        <h2 class="section-title">Implant dentar + Coronita dentara. Pret 500 euro!</h2>
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <img class="img-responsive" src="/img/implant-coroana-400.jpg" alt="Implant dentar pret 400 euro">
+                <img class="img-responsive" src="/img/promo/implant-dentar-pret-oferta.jpg" alt="Implant dentar pret 500 euro">
             </div>
             <br/><br/>
         </div>
@@ -54,7 +54,7 @@ description: Cat costa un implant dentar? La noi preturile de implant dentar sun
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Cat costa o coronita? - O coronita metalo-ceramica are pretul de 150 de euro, iar o coronita de zirconiu are pretul de 180 de euro.</p>
+                        <p>Cat costa o coronita? - O coronita metalo-ceramica are pretul de 200 de euro, iar o coronita de zirconiu are pretul de 250 de euro.</p>
                     </div>
                 </div>
                 
