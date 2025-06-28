@@ -19,7 +19,7 @@ title: Implant dentar pret 300 de euro. Coroana zirconiu 250 euro.
 
 
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <img class="img-responsive" src="img/promo/implant-dentar-pret-300.jpg" alt="Implant dentar pret 300 euro">
+                <img class="img-responsive" src="/img/promo/implant-dentar-pret-300.jpg" alt="Implant dentar pret 300 euro">
             </div>
         </div>
 
