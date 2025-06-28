@@ -18,7 +18,7 @@ description: Implant dentar ieftin Bucuresti, Dr. Irina Alexandru. Pret accesibi
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <img class="img-responsive" src="/img/implant250.jpg" alt="Implant dentar pret 250 euro">
+                <img class="img-responsive" src="img/promo/implant-dentar-pret-300.jpg" alt="Implant dentar pret 300 euro">
             </div>
             <br/><br/>
         </div>
@@ -28,7 +28,7 @@ description: Implant dentar ieftin Bucuresti, Dr. Irina Alexandru. Pret accesibi
 
             <div class="col-sm-6">
                 <h3>Oferta implant dentar</h3>
-                <p>Sunt medic dentist cu experiență de peste 10 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentisti din Bucuresti care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am realizat ca reducand pretul manoperei voi reusi sa ofer acest tratament optim unui numar mai mare de pacienti. Acest lucru a fost apreciat imediat de pacienti deoarece alegand implantul dentar se evita clasica "pilire" a dintilor pentru realizarea unei punti dentare. Marturiile acestora le puteti citi si pe pagina de Facebook <a href="{{site.facebook}}/reviews" target="_blank">Dr Irina Alexandru</a></p>
+                <p>Sunt medic dentist cu experiență de peste 25 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentisti din Bucuresti care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am realizat ca reducand pretul manoperei voi reusi sa ofer acest tratament optim unui numar mai mare de pacienti. Acest lucru a fost apreciat imediat de pacienti deoarece alegand implantul dentar se evita clasica "pilire" a dintilor pentru realizarea unei punti dentare. Marturiile acestora le puteti citi si pe pagina de Facebook <a href="{{site.facebook}}/reviews" target="_blank">Dr Irina Alexandru</a></p>
                 
                 <p>Pentru a incepe tratamentul cu implanturi dentare trebuie mai intai sa va programati pentru o consultatie. Daca aveti deja o radiografie dentara mi-o puteti trimite pe email pentru a va analiza cazul in prealabil. Daca locuiti in strainatate este bine sa luati legatura din timp pentru a stabili cat mai exact planul de tratament si timpul necesar pentru indeplinirea acestuia.</p>
                 
