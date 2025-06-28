@@ -56,17 +56,13 @@ title: Implant dentar pret 300 de euro. Coroana zirconiu 250 euro.
         <div class="row">
             <br/><br/>
 
-            <div class="col-sm-6">
+            <div class="col-lg-8">
                 
                 <p>Zirconiul devine rapid materialul de preferat pentru coroane dentare. Este un material foarte puternic capabil să reziste la uzura utilizării zilnice. Din punct de vedere estetic, este translucid foarte similar cu un dinte natural și reflectă lumina în același fel.</p>
                 
                 <p>Efectul estetic al zirconiului este important pentru coroanele montate în partea din față a gurii și pentru a face diferența față de dinții naturali insesizabilă.</p>
 
-            </div>
-            <div class="col-sm-6">
-                <p>In cadrul ofertei pretul este de 900 RON redus de la 1200 RON</p>
-            </div>
-                 
+            </div>             
         </div>
         
         <div class="row">
