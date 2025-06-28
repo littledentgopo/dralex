@@ -49,7 +49,7 @@ title: Implant dentar pret 300 de euro. Coroana zirconiu 250 euro.
             <h2 class="section-title">Oferta coroana zirconiu 900 ron</h2>
 
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <img class="img-responsive" src="/img/coroana-zirconiu-600.jpg" alt="Coroana zirconiu pe implant">
+                <img class="img-responsive" src="/img/promo/zirconiu-age-600.jpg" alt="Coroana zirconiu pe implant">
             </div>
         </div>
 
